@@ -3,3 +3,11 @@ Il est utile car il garde un historique, permet de revenir à une version préc�
 GitHub héberge les dépôts Git en ligne et permet de collaborer, partager et suivre les projets.
 Dans ce TP, j’ai appris à créer un dépôt, le cloner dans Colab, ajouter un fichier, faire un commit et pousser vers GitHub.
 J’ai aussi compris l’intérêt des branches pour développer une fonctionnalité sans modifier directement la version principale.
+Description du projet biotechnologique :
+Mon projet consiste à étudier la production d'enzymes par des micro-organismes.
+L'objectif est de comprendre comment certains facteurs, tels que la température,
+le pH et la composition du milieu de culture, peuvent influencer cette production.
+Ce projet permettra de mieux comprendre les applications des micro-organismes
+dans les domaines de la biotechnologie industrielle et de la recherche scientifique.
+L'utilisation de Git permettra de conserver les différentes versions des données,
+des programmes et des résultats obtenus au cours du projet.
